@@ -1,0 +1,130 @@
+body{
+	background-color: #ff4d4d !important;
+	margin:0;
+	padding: 0;
+}
+
+.course-form h1{
+background-color: red;
+margin-top: 0;
+font-weight: 200;
+}
+
+.course-form{
+width:85%;
+max-width: 600px;
+background: #f1f1f1;
+position: absolute;
+top:50%;
+left:50%;
+transform: translate(-50%, -50%);
+padding: 30px 40px;
+box-sizing: border-box;
+border-radius: 8px;
+text-align: center;
+box-shadow: 0 0 20px #000000b3;
+font-family: "Montserrat", sans-serif;
+}
+
+.txtb{
+border: 1px solid grey;
+margin: 8px 0;
+padding: 12px 18px;
+border-radius: 8px;
+}
+
+.txtb label{
+display: block;
+text-align: left;
+color: #333;
+text-transform: uppercase;
+font-size: 14px;
+}
+
+.txtb input, .txt{
+width: 50%;
+border: none;
+background: none;
+outline: none;
+font-size:18px;
+margin-top: 6px;
+}
+
+input  .btn{
+display: inline-block;
+background: #9b59b6;
+padding: 14px 0;
+color: white;
+text-transform: uppercase;
+cursor: pointer;
+margin-top: 8px;
+width:50%;
+}
+
+
+#header-nav{
+	background-color:  ;
+	border-radius: 0;
+	border: 0;
+	padding-bottom: 10px;
+}
+
+.custom-nav-item a{
+	color: black !important;
+
+}
+
+.custom-nav-item:hover{
+	background-color: #dc3545;
+	border: solid #dc3545;
+	border-radius: 10px;
+}
+
+
+img{
+	margin-left: -100px;
+	margin-right: 100px;
+}
+
+.navbar-brand{
+	padding-top: 25px;
+	font-size: 1.1em;
+	font-weight: bold;
+
+}
+
+.navbar-brand h1{
+	font-family: 'Lora', serif;
+	color : black;
+	font-size: 1.4em;
+	text-transform: uppercase;
+	font-weight: bold;
+	text-shadow: 1px 1px 1px #222;
+	margin-top: 0;
+	margin-bottom: 20px;
+	line-height: .75;
+	text-decoration: underline;
+}
+
+.navbar-brand a:hover , .navbar-brand a:focus{
+	
+	text-decoration: none;
+}
+
+
+.course-form{
+width:85%  !important;
+max-width: 600px;
+background: #f1f1f1;
+position: absolute;
+top:50%;
+left:50%;
+transform: translate(-50%, -50%);
+padding: 30px 40px;
+box-sizing: border-box;
+border-radius: 8px;
+text-align: center;
+box-shadow: 0 0 20px #000000b3;
+font-family: "Montserrat", sans-serif;
+}
+
